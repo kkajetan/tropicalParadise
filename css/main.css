@@ -399,7 +399,6 @@ body {
   padding: 2em;
   background-color: #fff;
   z-index: 10;
-  width: 50%;
 }
 .offers__option-heading {
   margin-bottom: 0.5em;
@@ -462,6 +461,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    width: 50%;
   }
   .offers__option-img-heading {
     margin-bottom: 0.5em;
