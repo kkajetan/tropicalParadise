@@ -559,6 +559,9 @@ body {
   .offers__option-text {
     font-size: 1.5rem;
   }
+  .offers__option-info {
+    width: 50%;
+  }
 }
 @media (min-width: 1100px) {
   .islands__card {
